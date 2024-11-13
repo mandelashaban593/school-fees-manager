@@ -8,6 +8,11 @@ if error occur please let me know
 
 
 USERS
+
 Admin
+
 username: osotech
-password: osotech# school-fees-manager
+
+password: osotech
+
+# school-fees-manager
